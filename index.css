@@ -1,0 +1,55 @@
+body{
+    background-color: #dedede;
+}
+
+.dayOfTheWeek{
+    color: #875B79;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 100px;
+}
+
+.month{
+    color: #5B7987;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+    position: relative;
+    left: 20px;
+    top: 3px;
+}
+
+.dayNumber{
+    color: #5B7987;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+    position: relative;
+    left: 175px;
+    bottom: 34px;
+}
+
+.randomQuote{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #79875B;
+    height: 100px;
+    width: 600px;
+    position: relative;
+    left: 400px;
+    top: 75px;
+}
+
+.giveMeMyQuote{
+    background-color: #79875B;
+    color: #dedede;
+    border: none;
+    border-radius: 4px;
+    width: 100px;
+    height: 50px;
+    font-size: 12.5px;
+    position: relative;
+    top: 310px;
+    left: 15px;
+}
+
